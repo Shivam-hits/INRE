@@ -1,13 +1,17 @@
-#INRE
-A website to purchase real estate.
+
+# INRE
+INRE--> A website to purchase real estate.   
 This is a simple website developed using HTML, CSS and Reactjs
 
-Project Description
+## Project Description
 A Real estate delearship website which helps you in finding best property according to choice, we have many professional who are willing to help.
 
-How to run or install
-Download or clone the repository to your local machine.
+## How to run or install
+Download or clone the repository to your local machine.             
 Open the index.html file in your web browser.
 
-Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+
+## Screenshots
+![Home (2)](https://user-images.githubusercontent.com/96060666/229862446-6b56fc3b-262a-47fd-b50f-e927e26903c1.png)
