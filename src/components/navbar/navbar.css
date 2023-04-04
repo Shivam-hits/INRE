@@ -1,0 +1,48 @@
+
+.logo{
+    display: inline-flex;
+    float: left;
+    height: 35px;
+    width: 94px;
+    margin: -20px 0 0 0 ;
+}
+.card-body{
+    margin: 0 0 10px 80px;
+}
+.logo:hover{
+    cursor: pointer;
+}
+.options{
+    margin: 0 0 0 30rem;
+    display: inline-flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+.options:hover{
+    cursor: pointer;
+}
+.navbar{
+    margin: 2.5rem 1.5rem 0.5rem 1.5rem;
+}
+.btn{
+    color: white;
+    float: right;
+    margin-top: -20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 16px;
+    height: 40px;
+    width: 130px;
+    text-align: center;
+    background-color:#002550 ;
+    /* figma */
+}
+.Navbar_linebreak{
+    margin-top: 0.5rem;
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8c8c inset;
+}
+li{
+    padding: 0 7px 0 7px;
+}

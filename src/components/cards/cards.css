@@ -1,0 +1,19 @@
+
+.card{
+    width: 1350px;
+    height: 349px;
+    border: 1px solid black;
+    margin: 30px 0 30px 100px;
+    background-color: #002550;
+    display: flex;
+}
+.detail{
+    color: white;
+    display: inline-block;
+    padding: 97px 119px 0 109px;
+    font-weight: normal;
+    font-size: 32px;
+}
+.Real_estate{
+    color: #FAFF00;
+}
