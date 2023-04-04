@@ -1,0 +1,23 @@
+.page_form{
+    width: 200px;
+    height: 300px;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.form_text{
+    display: flex;
+    flex-direction: row;
+}
+.from_image{
+    height: 65px;
+    width: 200px;
+}
+.full-width{
+    display: flex;
+    flex-direction: row;
+}
+.submit{
+    width: 300px;
+}
